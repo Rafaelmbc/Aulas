@@ -1,0 +1,3 @@
+def idade_em_minutos(i);
+minutos = idade_em_minutos(29)
+print(f" Eu tenho hoje{minutos}minutos")
